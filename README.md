@@ -6,21 +6,21 @@ On production
 ### dev
 Under development
 
-### backend
+### server
 Backend development
 
 ### web
 Web Frontend development
 
 ## Branch structure
-master
-└ hotfix/
-└ dev
-  └ features/
-  └ bugfix/
-  └ backend
-    └ features/
-    └ bugfix/
-  └ web
-    └ features/
-    └ bugfix/
+master  
+└ hotfix/  
+└ dev  
+ └ features/  
+ └ bugfix/  
+ └ server  
+  └ features/  
+  └ bugfix/  
+ └ web  
+  └ features/  
+  └ bugfix/
